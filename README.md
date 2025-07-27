@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 💬 Ask me about **React, figmo**
+- 💬 Ask me about **React, HTML-CSS**
 
-- ⚡ Fun fact **I like designing**
+- ⚡ Fun fact **I like UI/UX designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
