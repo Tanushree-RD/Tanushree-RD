@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanushree</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer in progress from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushree-rd&label=Profile%20views&color=0e75b6&style=flat" alt="tanushree-rd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushree-rd" alt="tanushree-rd" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **React, HTML-CSS**
+- 💬 Ask me about **Python,C++**
 
 - ⚡ Fun fact **I like UI/UX designing**
 
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushree-rd&show_icons=true&locale=en" alt="tanushree-rd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushree-rd&" alt="tanushree-rd" /></p>
-
