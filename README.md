@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Python,C++**
+- 💬 Ask me about ****
 
-- ⚡ Fun fact **I like UI/UX designing**
+- ⚡ Fun fact **I also wanna be a UI/UX designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
