@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/X3jJ_r78JlcAAAAd/bobs-burger-tina-belcher.gif" width="600" height="300" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanushree</h1>
 <h3 align="center">A passionate fullstack developer in progress from India</h3>
 
