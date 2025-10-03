@@ -8,6 +8,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushree-rd&label=Profile%20views&color=0e75b6&style=flat" alt="tanushree-rd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushree-rd" alt="tanushree-rd" /></a> </p>
+    <a href="https://x.com/serotoninwave?s=09" target="blank">
+    <img src="        <i class="fa-brands fa-x-twitter"></i>" />
+  </a>
+  <a href="https://www.instagram.com/tanu_shree_rd?igsh=MTNyY2sxaDh0anVtYg==" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+
 
 - 🌱 I’m currently learning **Javascript**
 
