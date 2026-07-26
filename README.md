@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="pixel.gif" width="700" alt="Lain">
+</p>
 
-<!--
-**Tanushree-RD/Tanushree-RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  :3
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanushree-RD&label=visitors&color=F7A8B8&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ui engineering // backend // ai // creative coding
+</p>
+
+<p align="center">
+  <a href="https://tanushree.is-a.dev">portfolio</a> •
+  <a href="https://medium.com/@serotoninwave">blog</a> •
+  <a href="'linkedin.com/in/tanushree-rd">linkedin</a> •
+  <a href="mailto:tanushreeedevadiga@gmail.com">mail</a>
+</p>
