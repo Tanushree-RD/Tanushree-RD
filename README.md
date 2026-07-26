@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="pixel.gif" width="700" alt="Lain">
+  <img src="pixel.gif" width="700" alt="Pixel">
 </p>
 
 <p align="center">
-  :3
+  $ whoami
 </p>
 
 <p align="center">
