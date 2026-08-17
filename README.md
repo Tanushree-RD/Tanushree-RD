@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  ui engineering // backend // ai // creative coding
+  web dev // learning backend // ai
 </p>
 
 <p align="center">
