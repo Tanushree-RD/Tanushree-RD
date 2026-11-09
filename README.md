@@ -17,6 +17,6 @@
 <p align="center">
   <a href="https://tanushree.is-a.dev">portfolio</a> •
   <a href="https://medium.com/@serotoninwave">blog</a> •
-  <a href="'linkedin.com/in/tanushree-rd">linkedin</a> •
+  <a href="https://www.linkedin.com/in/tanushree-rd/">linkedin</a> •
   <a href="mailto:tanushreeedevadiga@gmail.com">mail</a>
 </p>
