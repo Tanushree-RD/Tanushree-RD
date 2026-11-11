@@ -2,8 +2,8 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # refresh twice a day
+  workflow_dispatch:          # run it by hand from the Actions tab
   push:
     branches: [main]
 
@@ -13,8 +13,9 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Build cute snake
+      - name: Build cute pink snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
